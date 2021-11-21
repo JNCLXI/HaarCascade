@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1087143500627",
+    "firebase_url": "https://test-79933.firebaseio.com",
+    "project_id": "test-79933",
+    "storage_bucket": "test-79933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087143500627:android:02be17b0be894acf331fa6",
+        "android_client_info": {
+          "package_name": "com.example.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087143500627-dd6gu1muld5l6b74i5obga6vfkvg4onb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasestorage",
+            "certificate_hash": "4964ecfd71ba220e85e8efde76488e45957cad04"
+          }
+        },
+        {
+          "client_id": "1087143500627-6p6r1dlg2r2601ul6s3c2c9gqs9g9cgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BJ-bexuSKmo3l2iJ4R5_QDZ90d2InpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087143500627-6p6r1dlg2r2601ul6s3c2c9gqs9g9cgv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087143500627-r7fv9hb2bqnud7jp0no6qrsmpc26911j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "P.CCX-project"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087143500627:android:3b3521b89ac27b7e331fa6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087143500627-ljlbo13bull70anthdpq6ljuu2akhqt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "4964ecfd71ba220e85e8efde76488e45957cad04"
+          }
+        },
+        {
+          "client_id": "1087143500627-6p6r1dlg2r2601ul6s3c2c9gqs9g9cgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BJ-bexuSKmo3l2iJ4R5_QDZ90d2InpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087143500627-6p6r1dlg2r2601ul6s3c2c9gqs9g9cgv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087143500627-r7fv9hb2bqnud7jp0no6qrsmpc26911j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "P.CCX-project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
