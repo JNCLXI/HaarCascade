@@ -11,5 +11,6 @@ How does this thing work?
    firebase since it is easy for implementation and take less time to set it up.
 
 Purpose of this project? 
+
 To measure the traffic of people or how populate is it at a period of time within that area. The collected data might be used for a further data analysis to manage or 
 adapt the resources such as human resources according to the data so that it can be efficient for the business owners.
